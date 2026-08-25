@@ -14,7 +14,7 @@ To set up and run the IfShare application locally, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/mohitarora8181/IfShare.git
+   git clone https://github.com/theycallmeeayaz/IfShare.git
    cd IfShare
    ```
 
